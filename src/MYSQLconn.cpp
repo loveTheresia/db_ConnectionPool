@@ -1,4 +1,5 @@
 #include "MySQLconn.h"
+using namespace std;
 
 MysqlConn::MysqlConn()
 {

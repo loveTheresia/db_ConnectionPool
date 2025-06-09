@@ -1122,30 +1122,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool"
-		},
-		{
 			"name" : "db_ConnectionPool_BINARY_DIR",
 			"properties" : 
 			[
@@ -1159,30 +1135,6 @@
 		},
 		{
 			"name" : "db_ConnectionPool_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool"
-		},
-		{
-			"name" : "db__BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build"
-		},
-		{
-			"name" : "db__SOURCE_DIR",
 			"properties" : 
 			[
 				{

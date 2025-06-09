@@ -1,3 +1,6 @@
 {
-    "C_Cpp.errorSquiggles": "enabled"
+    "files.associations": {
+        "chrono": "cpp",
+        "thread": "cpp"
+    }
 }

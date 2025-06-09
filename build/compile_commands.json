@@ -1,17 +1,17 @@
 [
 {
   "directory": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build",
-  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/ConnectionPool.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/ConnectionPool.cpp",
+  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp -I/usr/include/mysql  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/ConnectionPool.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/ConnectionPool.cpp",
   "file": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/ConnectionPool.cpp"
 },
 {
   "directory": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build",
-  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/MYSQLconn.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/MYSQLconn.cpp",
+  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp -I/usr/include/mysql  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/MYSQLconn.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/MYSQLconn.cpp",
   "file": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/MYSQLconn.cpp"
 },
 {
   "directory": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build",
-  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/main.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/main.cpp",
+  "command": "/usr/bin/g++-9   -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp -I/usr/include/mysql  -g   -std=gnu++11 -o CMakeFiles/db_ConnectionPool.dir/src/main.cpp.o -c /home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/main.cpp",
   "file": "/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/src/main.cpp"
 }
 ]

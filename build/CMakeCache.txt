@@ -209,22 +209,10 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-Project_BINARY_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build
-
-//Value Computed by CMake
-Project_SOURCE_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool
-
-//Value Computed by CMake
 db_ConnectionPool_BINARY_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build
 
 //Value Computed by CMake
 db_ConnectionPool_SOURCE_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool
-
-//Value Computed by CMake
-db__BINARY_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/build
-
-//Value Computed by CMake
-db__SOURCE_DIR:STATIC=/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool
 
 
 ########################

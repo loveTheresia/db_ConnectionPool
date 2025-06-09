@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp 
+CXX_INCLUDES = -I/home/lovetheresia/Desktop/c++_tools/db_ConnectionPool/include -I/usr/include/jsoncpp -I/usr/include/mysql 
 

@@ -25,7 +25,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 12,
+				"line" : 13,
 				"parent" : 0
 			},
 			{
@@ -38,6 +38,12 @@
 				"command" : 1,
 				"file" : 0,
 				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -63,6 +69,10 @@
 				{
 					"backtrace" : 3,
 					"path" : "/usr/include/jsoncpp"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/usr/include/mysql"
 				}
 			],
 			"language" : "CXX",
@@ -86,6 +96,18 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ljsoncpp",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lmysqlclient",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"

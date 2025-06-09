@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<mysql/mysql.h>
 #include<chrono>
